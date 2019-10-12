@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">دير الخير</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">setting</string>
+
+    <string name="dusc">حملة شتاء دافئ جمعيلة كافل اليتيم تنظم نشاط سيكون تطبق "دير الخير" بقوم بتقديم مساعدتهم  بفضل دعوتكم انتم وشاهدتكم"دير الخير" بقوم بتقديم مساعدتهم  بفضل دعوتكم انتم وشاهدتكم    </string>
+    <string name="theme"> جمعية كافل اليتيم - Jamait kafl yatem   </string>
+    <string name="name_profile"> نجيمي سفيان - Nedjimi Sofiane   </string>
+    <string name="time">من 11 جانفي الى  11 فيفري  2019   </string>
+    <string name="khirNm">#ترويج_خيري_رقم203\n#كن_سندا   </string>
+
+
+
+    <string name="title">دير الخير</string>
+    <string name="welcome_back">مرحبا بعودتك </string>
+    <string name="read_it_together"> اجتمعنا لفعل الخير </string>
+    <string name="skip">تخطي</string>
+    <string name="login">دخول</string>
+    <string name="email">البريد الاكتروني </string>
+    <string name="password">كلمة السر</string>
+    <string name="address">الولاية و البلدية</string>
+    <string name="date">تايخ الميلاد</string>
+    <string name="sign_up">تسجيل</string>
+    <string name="forget_password">نسيت كلمة المرور.؟</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#062750</color>
+    <color name="colorBlue">#062770</color>
+    <color name="sdq">#0198E1</color>
+    <color name="colorPrimaryDark">#555</color>
+    <color name="colorAccent">#666</color>
+    <color name="gray_40">#777777</color>
+    <color name="gray_33">#333</color>
+    <color name="ccc">#EEE</color>
+    <color name="club">#303F9F</color>
+    <color name="orange">#f8870f</color>
+
+    <color name="colorGrey">#666</color>
+    <color name="colorBackground">#062750</color>
+    <color name="colorSplashText">#F0F0F0</color>
+    <color name="colorProgressBar">#FFCE511C</color>
+    <color name="colorTextView">#83898E</color>
+</resources>
